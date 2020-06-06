@@ -1,0 +1,20 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est 9404-1E9E
+
+ R‚pertoire de C:\Users\yannm\Desktop\Versionning\TD1_git\repos\repo1
+
+06/06/2020  16:23    <DIR>          .
+06/06/2020  16:23    <DIR>          ..
+06/06/2020  16:18                22 .gitignore
+06/06/2020  14:57    <DIR>          bin
+06/06/2020  14:57    <DIR>          build
+06/06/2020  16:18    <DIR>          data
+06/06/2020  16:22                31 data.txt
+06/06/2020  16:23                 0 data_1.txt
+06/06/2020  16:11                10 fileA.txt
+06/06/2020  16:11                19 fileB.txt
+06/06/2020  16:18                 8 fileC.txt
+06/06/2020  14:55                 0 filetmp.tmp
+06/06/2020  16:18                 0 gitignore.txt
+               8 fichier(s)               90 octets
+               5 R‚p(s)  12ÿ205ÿ223ÿ936 octets libres
