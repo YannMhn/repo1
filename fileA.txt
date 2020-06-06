@@ -1,5 +1,7 @@
 info: File A
 
+add feature 2 before 1
+
 Fix some bug 1
 
 add feature 1
